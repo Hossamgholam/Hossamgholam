@@ -39,21 +39,29 @@ Currently, I am transitioning into .NET backend and desktop development, focusin
 
 ### Highlighted Projects
 
-- **Bank Management System (C++)**
+ **Bank Management System (C++)**
   - File-based system with full CRUD operations
   - Transactions, balance calculations, and role-based permissions
   - Designed using object-oriented principles
 
-- **ATM System (C++)**
+ **ATM System (C++)**
   - Simulation of real ATM operations
   - Deposit, withdraw, and balance inquiry
   - Integrated with bank system logic
 
-- **Data Structures & Algorithms Libraries (C++)**
+ **Data Structures & Algorithms Libraries (C++)**
   - Reusable libraries for strings, data validation, stacks, queues, and linked lists
   - Built using OOP and applied across multiple projects
 
----
+ **Math Quiz (C++)**
+  - Console-based application to test mathematical skills
+  - Implemented using control flow, functions, and basic OOP concepts
+
+ **Rock–Paper–Scissors (C++)**
+  - Interactive console game
+  - Demonstrates program flow control, input validation, and game logic
+
+
 
 ### Current Focus
 - Learning C# and Windows Forms (.NET Framework)
