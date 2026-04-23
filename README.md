@@ -9,20 +9,34 @@
 ---
 
 ### 👨‍💻 About Me
-I am a final-year Computer Science student with strong foundations in C++ and core computer science concepts.  
-I have extensive experience in problem solving, algorithms, data structures, and object-oriented programming through building multiple projects such as a complete Bank Management System and an ATM application.  
-Currently, I am transitioning into .NET backend and desktop development, focusing on C#, Windows Forms, and database-driven applications.
+I am a final-year Computer Science student with strong foundations in core computer science concepts.
 
----
+My journey is structured around building deep understanding in:
+problem solving, algorithms, data structures, and system design.
+
+I have built complete systems such as:
+- Bank Management System
+- ATM Simulation
+
+Currently, I am in **Stage Two** of my roadmap, focusing on:
+
+- C# and .NET development  
+- Database design and SQL  
+- Building scalable, structured applications  
+
+I am not just learning technologies  I am building **strong programming foundations that transfer across any stack**.
+
 
 ### 🧠 Core Skills
 
-**Core Concepts**
-- Programming Fundamentals & Logic Design (Flowcharts)
-- Algorithms & Problem Solving
-- Object-Oriented Programming (OOP)
-- Data Structures
-- File-based & Database-driven Systems
+### 🧠 Core Skills
+
+**Foundations**
+- Programming Fundamentals & Problem Solving
+- Algorithms & Complexity (Big O)
+- Object-Oriented Programming (Design & Applications)
+- Data Structures (Implementation + Usage)
+- Database Design (ERD → Relational Schema)
 
 **Programming Languages**
 - C++ (strong)
