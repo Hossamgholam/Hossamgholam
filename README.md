@@ -26,8 +26,8 @@ Currently, I am in **Stage Two** of my roadmap, focusing on:
 
 I am not just learning technologies  I am building **strong programming foundations that transfer across any stack**.
 
+---
 
-### 🧠 Core Skills
 
 ### 🧠 Core Skills
 
