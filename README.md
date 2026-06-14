@@ -1,79 +1,87 @@
+# Hi, I'm Hossam 👋
 
-<h2 align="center">Hi, I'm Hossam 👋</h2>
+🎓 Computer Science Student
 
-<p align="center">
-  🎓 Final-Year Computer Science Student <br>
-  💻 Strong C++ Foundations | Transitioning into .NET Backend & Desktop Development
-</p>
+💻 Software Developer | C++ Developer | C# & .NET Desktop Developer | SQL Server & ADO.NET Developer | Aspiring .NET Backend Developer
 
----
+## 👨‍💻 About Me
 
-### 👨‍💻 About Me
-I am a final-year Computer Science student with strong foundations in core computer science concepts.
+I am a Computer Science student with strong foundations in programming, problem solving, algorithms, data structures, and database systems.
 
-My journey is structured around building deep understanding in:
-problem solving, algorithms, data structures, and system design.
+My learning journey focuses on building solid software engineering fundamentals before specializing in backend development. Through academic study and hands-on projects, I have developed practical experience in object-oriented programming, database design, desktop application development, and software architecture.
 
-I have built complete systems such as:
-- Bank Management System
-- ATM Simulation
+I have built complete applications including:
 
-Currently, I am in **Stage Two** of my roadmap, focusing on:
+* Bank Management System
+* ATM Simulation System
+* Database-Driven Desktop Applications using C# and ADO.NET
 
-- C# and .NET development  
-- Database design and SQL  
-- Building scalable, structured applications  
+Currently, I am expanding my expertise in:
 
-I am not just learning technologies  I am building **strong programming foundations that transfer across any stack**.
+* C# and .NET Development
+* SQL Server and Database Systems
+* ADO.NET and Data Access Technologies
+* Desktop Application Development
+* Backend Development with .NET
 
----
+I believe in building strong fundamentals that remain valuable across technologies and programming languages.
 
+## 🧠 Core Skills
 
-### 🧠 Core Skills
+### Computer Science Fundamentals
 
-**Foundations**
-- Programming Fundamentals & Problem Solving
-- Algorithms & Complexity (Big O)
-- Object-Oriented Programming (Design & Applications)
-- Data Structures (Implementation + Usage)
-- Database Design (ERD → Relational Schema)
+* Problem Solving
+* Algorithms & Complexity Analysis
+* Object-Oriented Programming (OOP)
+* Data Structures
+* Database Design & Modeling
+* Software Architecture Fundamentals
 
-**Programming Languages**
-- C++ (strong)
-- C# (currently applying)
+### Programming Languages
 
-**Databases & Technologies**
-- SQL
-- Windows Forms (.NET Framework)
-- Git & GitHub
+* C++
+* C#
+* SQL
 
-**Tools**
-- Visual Studio, VS Code
-- SQL Server Management Studio (SSMS)
-- draw.io
+### .NET & Database Technologies
 
----
+* ADO.NET
+* SQL Server
+* Windows Forms (.NET Framework)
+* Three-Tier Architecture
+* CRUD Application Development
+* Database Connectivity
 
-### 🚀 Highlighted Projects
+### Tools
 
-**Bank Management System (C++)**  
-File-based system with full CRUD operations, transaction handling, balance calculations, and role-based permissions using OOP.
+* Visual Studio
+* Visual Studio Code
+* SQL Server Management Studio (SSMS)
+* Git & GitHub
+* draw.io
 
-**ATM System (C++)**  
-Simulation of real ATM operations including deposit, withdrawal, and balance inquiry integrated with bank system logic.
+## 🚀 Highlighted Projects
 
-**Data Structures & Algorithms Libraries (C++)**  
-Reusable libraries for strings, data validation, stacks, queues, and linked lists built with OOP.
+### Bank Management System (C++)
 
-**Math Quiz (C++)**  
-Console-based application focusing on logic, control flow, and basic OOP concepts.
+A complete banking application implementing OOP principles, role-based permissions, transactions, and account management.
 
-**Rock–Paper–Scissors (C++)**  
-Interactive console game demonstrating program flow control, input validation, and game logic.
+### ATM Simulation System (C++)
 
----
+Simulation of real ATM operations integrated with banking system logic.
 
-### 🎯 Current Focus
-- Learning C# and Windows Forms (.NET Framework)
-- Studying SQL and database fundamentals
-- Preparing for .NET backend and full-stack desktop development
+### Contacts Management System (C# & ADO.NET)
+
+Database-driven application implementing CRUD operations, SQL Server connectivity, and Three-Tier Architecture.
+
+### Data Structures & Algorithms Library (C++)
+
+Custom implementations of core data structures and reusable utility libraries.
+
+## 🎯 Current Focus
+
+* Strengthening C# and .NET skills
+* Studying advanced database concepts
+* Learning Entity Framework Core
+* Preparing for ASP.NET Core Backend Development
+* Building larger desktop and backend applications
