@@ -2,13 +2,14 @@
 
 🎓 Computer Science Student
 
-💻 Software Developer | C++ Developer | C# & .NET Desktop Developer | SQL Server & ADO.NET Developer | Aspiring .NET Backend Developer
+💻 Software Engineering  | C++  | C# & .NET Desktop Developer | SQL Server & ADO.NET 
+| Aspiring .NET Backend Developer
 
 ## 👨‍💻 About Me
 
-I am a Computer Science student with strong foundations in programming, problem solving, algorithms, data structures, and database systems.
+I am a Computer Science student passionate about Software Engineering and building reliable, maintainable software solutions. I have strong foundations in programming, problem solving, algorithms, data structures, database systems, and software design principles.
 
-My learning journey focuses on building solid software engineering fundamentals before specializing in backend development. Through academic study and hands-on projects, I have developed practical experience in object-oriented programming, database design, desktop application development, and software architecture.
+My learning journey focuses on developing solid software engineering skills through academic study and hands-on projects. I have gained practical experience in object-oriented programming, database design, desktop application development, software architecture, and layered application design.
 
 I have built complete applications including:
 
@@ -18,24 +19,25 @@ I have built complete applications including:
 
 Currently, I am expanding my expertise in:
 
+* Software Engineering Principles
 * C# and .NET Development
 * SQL Server and Database Systems
 * ADO.NET and Data Access Technologies
 * Desktop Application Development
 * Backend Development with .NET
 
-I believe in building strong fundamentals that remain valuable across technologies and programming languages.
+I believe that strong software engineering fundamentals are the key to building scalable, efficient, and maintainable applications.
 
 ## 🧠 Core Skills
 
-### Computer Science Fundamentals
+### Software Engineering Fundamentals
 
 * Problem Solving
 * Algorithms & Complexity Analysis
 * Object-Oriented Programming (OOP)
 * Data Structures
 * Database Design & Modeling
-* Software Architecture Fundamentals
+* Three-Tier Architecture
 
 ### Programming Languages
 
@@ -48,9 +50,7 @@ I believe in building strong fundamentals that remain valuable across technologi
 * ADO.NET
 * SQL Server
 * Windows Forms (.NET Framework)
-* Three-Tier Architecture
-* CRUD Application Development
-* Database Connectivity
+
 
 ### Tools
 
@@ -80,8 +80,9 @@ Custom implementations of core data structures and reusable utility libraries.
 
 ## 🎯 Current Focus
 
-* Strengthening C# and .NET skills
-* Studying advanced database concepts
+* Strengthening Software Engineering and Design Skills
+* Advancing C# and .NET Development
+* Studying Advanced Database Concepts
 * Learning Entity Framework Core
 * Preparing for ASP.NET Core Backend Development
-* Building larger desktop and backend applications
+* Building Larger Desktop and Backend Applications
